@@ -1,0 +1,22 @@
+.allheroes{
+    width: 100%;
+    min-height: 100vh;
+}
+
+.cardsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+/* .indice{
+    background-color: transparent;
+    margin: 2px;
+}
+
+.indice:hover{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+} */
